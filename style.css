@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ 
+}
+
+
+
+body{
+    position: relative;
+    border: 3px solid blue;
+    width: 50%;
+    margin: auto;
+    margin-top: 5rem;
+    background-color: rgb(44, 124, 144);
+    
+}
+img {
+    height: 11rem;
+    width: 8rem;
+    background-color: aqua;
+
+}
+h1{
+    position: absolute;
+    left: 10rem;
+    top: 1rem;
+    color: #9C8599;
+}
+p{
+    position: absolute;
+    right: 1rem;
+    bottom: 1rem;
+    left: 10rem;
+    top: 5rem;
+    overflow: auto;
+    color: #9C8599;
+}
